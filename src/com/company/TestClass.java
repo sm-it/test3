@@ -7,6 +7,7 @@ public class TestClass {
     public TestClass() {
         //comment
         System.out.println("hello");
+        System.out.println("hello 222");
 
     }
 }
